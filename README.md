@@ -10,10 +10,12 @@
 
 Obsessed with <b>product design, UI/UX, and a bit of AI</b>.
 
-I try to build cool stuff — but useful stuff too. Now in education trying to give back.
+I try to build cool stuff — but useful stuff too. These days, I’m working in education and trying to give something back.
 
 <br><br>
 
 <b>3 AM vibes are the best kind of dopamine.</b>
 
 </div>
+
+<img width="300" height="321" alt="image" src="https://github.com/user-attachments/assets/1afcc4c5-cbef-4d24-80e4-c41a2ea5dbe7" />
