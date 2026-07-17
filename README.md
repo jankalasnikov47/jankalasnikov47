@@ -16,6 +16,8 @@ I try to build cool stuff — but useful stuff too. These days, I’m working in
 
 <b>3 AM vibes are the best kind of dopamine.</b>
 
-</div>
+<br><br>
 
-<img width="300" height="321" alt="image" src="https://github.com/user-attachments/assets/1afcc4c5-cbef-4d24-80e4-c41a2ea5dbe7" />
+<img width="300" height="321" alt="Michael Scott" src="https://github.com/user-attachments/assets/5ab2eb2b-78d1-454f-88ed-ae2b9f605bc9" />
+
+</div>
